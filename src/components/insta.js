@@ -9,7 +9,7 @@ const Insta = () => {
   const { username } = instaphotos[0];
   return (
     <>
-      <h2>Instagram posts from @iswatimaheshwari</h2>
+      <h2>Instagram posts from @ipunamchoudhary</h2>
       <div
         css={css`
           display: flex;
